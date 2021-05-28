@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ControlsDemo</string>
+    <string name="spin_prompt">Select Color</string>
+    <string-array name="color_names">
+        <item>Magenta</item>
+        <item>Fuchsia</item>
+        <item>Cyan</item>
+        <item>Indigo</item>
+        <item>Aqua</item>
+        <item>Coral</item>
+        <item>Peach</item>
+        <item>Crimson</item>
+    </string-array>
+    <string name="title_activity_buttons_demo">ButtonsDemoActivity</string>
+    <string name="title_activity_date_picker_demo">DatePickerDemo</string>
+</resources>
